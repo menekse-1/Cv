@@ -2,8 +2,6 @@
 **Junior Back-End & Web Geliştirici | Bilgisayar Programcılığı (2. Sınıf)**
 
 📍 Uşak, Türkiye  
-🌐 Portföy & Başvuru: [https://aicalabs.com.tr/#is-basvurusu](https://aicalabs.com.tr/#is-basvurusu)
-
 ---
 
 ### Özet
