@@ -1,4 +1,4 @@
-# MENEKŞE [SOYADINIZ]
+# MENEKŞE BZKY
 **Junior Back-End & Web Geliştirici | Bilgisayar Programcılığı (2. Sınıf)**
 
 📍 Uşak, Türkiye  
@@ -29,4 +29,4 @@ Bilgisayar Programcılığı 2. sınıf öğrencisi; **C#, .NET, PHP, SQL ve mod
 * **Bilgisayar Programcılığı (2. Sınıf)** — Devam Ediyor (3.50 GNO)
 
 ---
-📄 **Detaylı CV (PDF):** Depodaki PDF dosyasını inceleyebilir veya doğrudan [AicaLabs İş Başvurusu](https://aicalabs.com.tr/#is-basvurusu) üzerinden ulaşabilirsin.
+📄 **Detaylı CV (PDF):** Depodaki PDF dosyasını inceleyebilir veya doğrudan https://aicalabs.com.tr/ üzerinden ulaşabilirsin.
